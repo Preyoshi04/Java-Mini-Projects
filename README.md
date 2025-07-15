@@ -38,5 +38,20 @@
       <li>Counts number of attempts</li>
     </ul>
   </p>
+
+  <h2>Temperature Conversion Tool</h2>
+  <p>
+   This Java console application helps users convert temperatures between Celsius and Fahrenheit. The program displays a menu with two options:
+    <ul>
+      <li>Convert Celsius to Fahrenheit</li>
+      <li>Convert Fahrenheit to Celsius</li>
+    </ul>
+    <p>
+      After the user selects the conversion type and inputs the temperature value, the program calculates and displays the converted result. It uses standard conversion formulas:
+      <ul>
+        <li>F=(C * 9/5)+ 32 </li>
+        <li>C=(F - 32)* 5/9</li>
+    </p>
+  </p>
 </body>
 </html>
